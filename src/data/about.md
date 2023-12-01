@@ -1,4 +1,4 @@
-Hi, I'm Elahe. I am currently a graduate student in Computer Science at McGill University/Mila. I got my bachelors in Computer Science from Sharif University of Technology. I have a broad interest in graph representation learning, graph neural networks, network science, and deep learning. My current research focus is on temporal graph learning, which involves machine learning models for complex and evolving networks in the real world.
+Hi, I'm Elahe. I'm currently a research graduate student in Computer Science at McGill University/Mila. I got my bachelor's in Computer Science from Sharif University of Technology. I have a broad interest in graph representation learning, graph neural networks, network science, and deep learning. My current research focus is on temporal graph learning, which involves machine learning models for complex and evolving networks in the real world.
 
 <!-- # Some history
 
