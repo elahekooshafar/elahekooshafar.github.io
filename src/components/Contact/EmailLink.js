@@ -10,21 +10,7 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'hi',
-  'hello',
-  'hola',
-  'you-can-email-me-at-literally-anything! Really',
-  'well, not anything. But most things',
-  'like-this',
-  'or-this',
-  'but not this :(  ',
-  'you.can.also.email.me.with.specific.topics.like',
-  'just-saying-hi',
-  'please-work-for-us',
-  'help',
-  'admin',
-  'or-I-really-like-your-website',
-  'thanks',
+  'elahe.kooshafar@mail.mcgill.ca',
 ];
 
 const useInterval = (callback, delay) => {
@@ -52,7 +38,7 @@ const EmailLink = ({ loopMessage }) => {
   const [idx, updateIter] = useState(0); // points to current message
   const [message, updateMessage] = useState(messages[idx]);
   const [char, updateChar] = useState(0); // points to current char
-  const [isActive, setIsActive] = useState(true); // disable when all messages are printed
+  const [isActive, setIsActive] = useState(false); // disable when all messages are printed
 
   useInterval(() => {
     let newIdx = idx;
@@ -78,13 +64,12 @@ const EmailLink = ({ loopMessage }) => {
   return (
     <div
       className="inline-container"
-      style={validateText(message) ? {} : { color: 'red' }}
+      style={validateText(message) ? {} : { color: 'blue' }}
       onMouseEnter={() => setIsActive(false)}
       onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
     >
-      <a href={validateText(message) ? `mailto:${message}@mldangelo.com` : ''}>
+      <a href={validateText(message) ? 'mailto:elahe.kooshafar@mail.mcgill.ca' : ''}>
         <span>{message}</span>
-        <span>@mldangelo.com</span>
       </a>
     </div>
   );

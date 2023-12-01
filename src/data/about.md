@@ -1,8 +1,6 @@
-# Intro
+Hi, I'm Elahe. I am currently a graduate student in Computer Science at McGill University/Mila. I got my bachelors in Computer Science from Sharif University of Technology. I have a broad interest in graph representation learning, graph neural networks, network science, and deep learning. My current research focus is on temporal graph learning, which involves machine learning models for complex and evolving networks in the real world.
 
-I am the VP of Engineering at Smile Identity, where I work on tools that have helped over 90 million people in Africa gain access to financial services. Before Smile, I was the co-founder & CTO of [Arthena](https://arthena.com) and a co-founder of [Matroid](https://matroid.com). In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects with high social impact. If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
-
-# Some history
+<!-- # Some history
 
 - My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
 
@@ -99,4 +97,4 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - [Tom Sachs](https://www.tomsachs.org/)
 - [Will Holley](https://willholley.com)
 
-If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me and I'll add you.
+If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me and I'll add you. -->
