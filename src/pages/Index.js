@@ -16,7 +16,10 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Hi, I&apos;m Elahe.
+      <p> I&apos;m a last year research master&apos;s student in Computer Science
+        at <a href="https://mila.quebec/en/">Mila - Quebec Artificial Intelligence Institute</a> and 
+        <a href="https://cs.mcgill.ca/"> McGill University</a>. 
+Hi, I&apos;m Elahe.
         I&apos;m a research MSc student in Computer Science at <a href="https://cs.mcgill.ca/">McGill University</a> &nbsp;and
         &nbsp;<a href="https://mila.quebec/en/">Mila - Quebec Artificial Intelligence Institute</a>.
         Previously, I got my bachelors in Computer Science from Sharif University of Technology
