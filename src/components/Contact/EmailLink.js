@@ -10,7 +10,7 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'elahe.kooshafar@mail.mcgill.ca',
+  'elahe.kooshafar@mila.quebec',
 ];
 
 const useInterval = (callback, delay) => {
