@@ -11,9 +11,6 @@ const Index = () => (
       <header>
         <div className="title">
           <h2><Link to="/">Bio</Link></h2>
-          <p> A highly motivated graduate student with a strong passion for research in
-            graph learning and deep learning.
-          </p>
         </div>
       </header>
       <p> Hi, I&apos;m Elahe.
