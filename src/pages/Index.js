@@ -16,11 +16,11 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> I'm a last year research master's student in Computer Science at 
+      <p> I&apos;m a last year research master&apos;s student in Computer Science at 
       <a href="https://mila.quebec/en">Mila</a> and <a href="https://www.mcgill.ca/">McGill University</a> under 
-      the supervision of <a href="http://www.reirab.com/">Reihaneh Rabbany</a>. I got my bachelor's in Computer Science
+      the supervision of <a href="http://www.reirab.com/">Reihaneh Rabbany</a>. I got my bachelor&apos;s in Computer Science
       from [Sharif University of Technology]<a href="https://www.sharif.ir/">Sharif University of Technology</a>. I have a
-        broad interest in graph representation learning, graph neural networks, network science, and deep learning. I'm currently
+        broad interest in graph representation learning, graph neural networks, network science, and deep learning. I&apos;m currently
           working on temporal graph representation learning methods.
       
       {/*Hi, I&apos;m Elahe.
