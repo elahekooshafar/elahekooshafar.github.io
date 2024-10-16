@@ -13,14 +13,13 @@ const Index = () => (
           <h2><Link to="/">Bio</Link></h2>
         </div>
       </header>
-      <p> I&apos;m a research MSc student in Computer Science at <a href="https://cs.mcgill.ca/">McGill University</a> &nbsp;and
+      <p> I&apos;m a last year Research MSc student in Computer Science at <a href="https://cs.mcgill.ca/">McGill University</a> &nbsp;and
         &nbsp;<a href="https://mila.quebec/en/">Mila - Quebec Artificial Intelligence Institute</a> supervised
         by <a href="http://www.reirab.com/">Reihaneh Rabbany</a>.
         Previously, I got my bachelors in Computer Science from <a href="https://en.sharif.ir/">Sharif University of Technology</a>.
-        I have a broad interest in graph representation learning, graph neural networks,
-        network science, and deep learning. My current research focus is on temporal
-        graph learning, which involves machine learning models for complex and
-        evolving networks in the real world.
+        I have a broad interest in graph representation learning, graph neural networks, network science, and deep learning. 
+        I&apos;m currently working on temporal graph representation learning methods.
+
         {/* Please feel free to <Link to="/contact">contact me</Link> for collaboration or else. */}
       </p>
 
