@@ -11,6 +11,9 @@ const Index = () => (
       <header>
         <div className="title">
           <h2><Link to="/">Bio</Link></h2>
+          <p>
+            A 
+          </p>
         </div>
       </header>
       <p> I'm a last year research master's student in Computer Science at 
