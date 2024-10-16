@@ -18,7 +18,7 @@ const SideBar = () => (
     </section>
 
     <section className="blurb">
-      <h2>Graph Representation Learning, Machine Learning, Data Mining</h2>
+      <h2>Research MSc student at Mila and McGill University</h2>
       {/* <p>Github Hi, I&apos;m Elahe. I am currently a graduate student in Computer Science at McGill University/Mila. I got my bachelors in Computer Science from Sharif University of Technology. <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni,
         and the VP of Engineering at <a href="https://smileidentity.com">Smile Identity</a>. Previously,
         I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
@@ -26,10 +26,10 @@ const SideBar = () => (
         {' '}<a href="https://planet.com">Planet</a> and <a href="https://facebook.com">Facebook</a>.
       </p> */}
       <ul className="actions">
-        <li>
+        {/*<li>
           {window.location.pathname !== '/' ? <Link to="/" className="button">Homepage</Link> : null}
         </li>
-      </ul>
+      </ul> */}
     </section>
 
     <section id="footer">
