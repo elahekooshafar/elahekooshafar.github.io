@@ -5,6 +5,7 @@ import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 // import { faAngellist } from '@fortawesome/free-brands-svg-icons/faAngellist';
 // import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
+import { faScholar } from '@fortawesome/free-regular-svg-icons/fa-google-scholar';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
 
@@ -18,6 +19,11 @@ const data = [
     link: 'https://www.linkedin.com/in/elahe-kooshafar/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
+  },
+  {
+    link: 'https://scholar.google.ca/citations?user=vuUUKUMAAAAJ&hl=en&oi=sra',
+    label: 'Google Scholar',
+    icon: faScholar,
   },
   {
     link: 'mailto:elahe.kooshafar@mila.quebec',
