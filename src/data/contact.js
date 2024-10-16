@@ -20,7 +20,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'mailto:elahe.kooshafar@mail.mcgill.ca',
+    link: 'mailto:elahe.kooshafar@mila.quebec',
     label: 'Email',
     icon: faEnvelope,
   },
