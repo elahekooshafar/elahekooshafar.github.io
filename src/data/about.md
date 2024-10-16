@@ -1,4 +1,4 @@
-I'm a research master's student in Computer Science at [Mila](https://mila.quebec/en) and [McGill University](https://www.mcgill.ca/) under the supervision of Prof [Reihaneh Rabbany](http://www.reirab.com/). I got my bachelor's in Computer Science from [Sharif University of Technology](https://www.sharif.ir/). I have a broad interest in graph representation learning, graph neural networks, network science, and deep learning. I'm currently working on temporal graph representation learning methods.
+I'm a last year research master's student in Computer Science at [Mila](https://mila.quebec/en) and [McGill University](https://www.mcgill.ca/) under the supervision of [Reihaneh Rabbany](http://www.reirab.com/). I got my bachelor's in Computer Science from [Sharif University of Technology](https://www.sharif.ir/). I have a broad interest in graph representation learning, graph neural networks, network science, and deep learning. I'm currently working on temporal graph representation learning methods.
 
 <!-- # Some history
 
