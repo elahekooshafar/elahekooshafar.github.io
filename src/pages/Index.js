@@ -13,8 +13,8 @@ const Index = () => (
           <h2><Link to="/">Bio</Link></h2>
         </div>
       </header>
-      <p> I&apos;m a research MSc student in Computer Science at <a href="https://cs.mcgill.ca/">McGill University</a> &nbsp;and
-        &nbsp;<a href="https://mila.quebec/en/">Mila - Quebec Artificial Intelligence Institute</a>.
+      <p> I&apos;m a final year Research MSc student in Computer Science at <a href="https://mila.quebec/en/">Mila - Quebec Artificial Intelligence Institute</a> 
+      &nbsp;and &nbsp; <a href="https://cs.mcgill.ca/">McGill University</a> under the supervision of Reihaneh Rabbany.
         Previously, I got my bachelors in Computer Science from Sharif University of Technology
         in 2022.
         I have a broad interest in graph representation learning, graph neural networks,
