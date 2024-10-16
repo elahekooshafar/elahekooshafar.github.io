@@ -13,12 +13,12 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Elahe Kooshafar</h2>
-        <p><a href="mailto:elahe.kooshafar@mail.mcgill.ca">elahe.kooshafar@mail.mcgill.ca</a></p>
+        <p><a href="mailto:elahe.kooshafar@mila.quebec">elahe.kooshafar@mila.quebec</a></p>
       </header>
     </section>
 
     <section className="blurb">
-      <h2>Graph Learning, Deep Learning, Data Mining</h2>
+      <h2>Graph Representation Learning, Machine Learning, Data Mining</h2>
       {/* <p>Github Hi, I&apos;m Elahe. I am currently a graduate student in Computer Science at McGill University/Mila. I got my bachelors in Computer Science from Sharif University of Technology. <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni,
         and the VP of Engineering at <a href="https://smileidentity.com">Smile Identity</a>. Previously,
         I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
