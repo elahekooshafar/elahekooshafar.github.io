@@ -24,9 +24,9 @@ const SideBar = () => (
         I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
         , co-founder of <a href="https://matroid.com">Matroid</a>, and worked at
         {' '}<a href="https://planet.com">Planet</a> and <a href="https://facebook.com">Facebook</a>.
-      </p> */}
-      <ul className="actions">
-        {/*<li>
+      </p> */} 
+      {/* <ul className="actions">
+        <li>
           {window.location.pathname !== '/' ? <Link to="/" className="button">Homepage</Link> : null}
         </li>
       </ul> */}
