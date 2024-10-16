@@ -18,12 +18,11 @@ const Index = () => (
       </header>
       <p> I&apos;m a last year research master&apos;s student in Computer Science
       at <a href="https://mila.quebec/en/">Mila - Quebec Artificial Intelligence Institute</a> &nbsp;and
-        &nbsp; <a href="https://cs.mcgill.ca/">McGill University</a>
-  
-        I do do have a broad interest in graph representation learning, graph neural networks,
-        network science, and deep learning. My current research focus is on temporal
-        graph learning, which involves machine learning models for complex and
-        evolving networks in the real world.
+        &nbsp; <a href="https://cs.mcgill.ca/">McGill University</a>. 
+
+      I have a broad interest in graph representation learning, graph neural networks
+        , network science, and deep learning. I&apos;m currently working on temporal graph
+        representation learning methods.
         {/* Please feel free to <Link to="/contact">contact me</Link> for collaboration or else. */}
       </p>
     </article>
