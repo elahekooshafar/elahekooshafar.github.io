@@ -39,6 +39,12 @@ const Resume = () => (
               </h4>))}
           </div>
         </div>
+        {/* Add a download button/link here */}
+        <div className="download-cv">
+          <a href="/cv.pdf" download="CV.pdf" className="button">
+            Download CV
+          </a>
+        </div>
       </header>
       {Object.entries(sections).map(([name, Section]) => (
         <Section key={name} />
