@@ -1,6 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+import interest from './ResearchInterest/interest';
+
 const ResearchInterests = ({ data }) => (
   <div className="research-interests">
     <div className="link-to" id="research-interests" />
