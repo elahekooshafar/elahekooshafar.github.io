@@ -12,14 +12,14 @@ import Publications from '../components/Resume/Publications';
 // import courses from '../data/resume/courses';
 import degrees from '../data/resume/degrees';
 import papers from '../data/resume/papers';
-import interests from '../data/resume/interests';
+import researchInterests from '../data/resume/researchInterests';
 // import work from '../data/resume/work';
 // import { skills, categories } from '../data/resume/skills';
 
 // NOTE: sections are displayed in order defined.
 const sections = {
   Education: () => <Education data={degrees} />,
-  Interests: () => <Interests data={interests} />,
+  researchInterests: () => <researchInterests data={researchInterests} />,
   Publications: () => <Publications data={papers} />,
   // Skills: () => <Skills skills={skills} categories={categories} />,
   // References: () => <References />,
