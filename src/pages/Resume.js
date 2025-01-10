@@ -5,6 +5,7 @@ import Main from '../layouts/Main';
 
 import Education from '../components/Resume/Education';
 import Publications from '../components/Resume/Publications';
+import researchInterests from '../components/Resume/researchInterests';
 // import Skills from '../components/Resume/Skills';
 // import Courses from '../components/Resume/Courses';
 // import References from '../components/Resume/References';
