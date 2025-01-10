@@ -5,7 +5,7 @@ import Main from '../layouts/Main';
 
 import Education from '../components/Resume/Education';
 import Publications from '../components/Resume/Publications';
-import researchInterests from '../components/Resume/ResearchInterests';
+import ResearchInterests from '../components/Resume/ResearchInterests';
 // import Skills from '../components/Resume/Skills';
 // import Courses from '../components/Resume/Courses';
 // import References from '../components/Resume/References';
@@ -20,7 +20,7 @@ import researchInterests from '../data/resume/researchInterests';
 // NOTE: sections are displayed in order defined.
 const sections = {
   Education: () => <Education data={degrees} />,
-  researchInterests: () => <researchInterests data={researchInterests} />,
+  researchInterests: () => <ResearchInterests data={researchInterests} />,
   Publications: () => <Publications data={papers} />,
   // Skills: () => <Skills skills={skills} categories={categories} />,
   // References: () => <References />,
