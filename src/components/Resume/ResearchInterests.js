@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import interest from './ResearchInterest/interest';
+import interest from './ResearchInterests/interest';
 
 const ResearchInterests = ({ data }) => (
   <div className="research-interests">
