@@ -20,7 +20,7 @@ import researchInterests from '../data/resume/researchInterests';
 // NOTE: sections are displayed in order defined.
 const sections = {
   Education: () => <Education data={degrees} />,
-  researchInterests: () => <ResearchInterests data={researchInterests} />,
+  ResearchInterests: () => <ResearchInterests data={researchInterests} />,
   Publications: () => <Publications data={papers} />,
   // Skills: () => <Skills skills={skills} categories={categories} />,
   // References: () => <References />,
